@@ -33,7 +33,8 @@ Abaixo está o resultado comparativo da redefinição das principais telas do fl
 
 | Interface Original | Nova Interface (Redesign) |
 | :---: | :---: |
-| <img width="717" height="244" alt="image" src="https://github.com/user-attachments/assets/6300b712-0f02-4c7e-b639-b96811c4b73b" /> | <img width="720" height="238" alt="image" src="https://github.com/user-attachments/assets/b5860dc5-6496-4a92-9061-5b0a7be2c91b" />
+| <img width="717" height="244" alt="image" src="https://github.com/user-attachments/assets/6300b712-0f02-4c7e-b639-b96811c4b73b" /> | <img width="717" height="228" alt="image" src="https://github.com/user-attachments/assets/0fe9f019-a826-42a0-9ec7-cb1103381e4e" />
+
  
  
 ## 🛠️ Ferramentas Utilizadas
