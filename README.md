@@ -6,6 +6,8 @@
 
 ## 🔗 Links do Projeto
 * 🚀 [**Ver Protótipo Interativo no Figma**](https://www.figma.com/proto/DdnhdoWDKraq5b7iAueibD/Projeto---BRAVO?node-id=7020-3572&t=peXBp2tPHsN6eajf-1&scaling=min-zoom&content-scaling=fixed&page-id=7020%3A3430&starting-point-node-id=7020%3A3572)
+* 🚀 [**Ver documentação do Projeto**](https://github.com/user-attachments/files/28426696/REDEFINICAO.DE.TELAS.-.BRAVO.pdf)
+
 
 ---
 
